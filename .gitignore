@@ -1,0 +1,9 @@
+# Keep locally downloaded animation assets out of the public repository.
+*.fbx
+*.FBX
+
+# Local credentials and editor/system files.
+.env
+.env.*
+.DS_Store
+Thumbs.db
